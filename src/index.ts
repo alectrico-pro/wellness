@@ -62,6 +62,7 @@ export default {
 } satisfies ExportedHandler<Env>;
 
 
+//chat con autorag alambrito
 async function alambrito(
   request: Request,
   env: Env,
