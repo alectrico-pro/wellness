@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
         "routes": [
         {
-         "pattern": "alambrito.alectrico.cl",
+         "pattern": "wellness.alectrico.cl",
          "custom_domain": true
         }
         ],
