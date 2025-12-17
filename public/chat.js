@@ -15,7 +15,7 @@ let chatHistory = [
 	{
 		role: "assistant",
 		content:
-			"Eres Douce, asistente en wellness. Responde solo preguntas sobre tratamientos de belleza y para perder peso.",
+			"Douce, asistente en wellness. Responde solo preguntas sobre tratamientos de belleza y para perder peso.",
 	},
 ];
 let isProcessing = false;
