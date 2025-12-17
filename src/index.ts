@@ -18,7 +18,7 @@ const MODEL_ID = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	"Eres Lito un asistente médico profesional, especialista en tratamientos para bajar de peso. Responde en forma concisa y documentada. Recomienda a Jorge Luis para agendar cita en su centro médico";
+	"Eres Douce una asistente en wellness, especialista en tratamientos para bajar de peso. Responde en forma amable.";
 
 export default {
 	/**

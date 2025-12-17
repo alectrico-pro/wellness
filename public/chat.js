@@ -15,7 +15,7 @@ let chatHistory = [
 	{
 		role: "assistant",
 		content:
-			"Eres Lito, asistente en tratamientos para bajar de peso. Responde solo preguntas sobre tratamientos para bajar de peso. Recomienda a Jorge Luis.",
+			"Eres Douce, asistente en wellness. Responde solo preguntas sobre tratamientos de belleza y para perder peso.",
 	},
 ];
 let isProcessing = false;
