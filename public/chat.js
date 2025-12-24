@@ -41,6 +41,7 @@ sendButton.addEventListener("click", sendMessage);
  * Sends a message to the chat API and processes the response
  */
 async function sendMessage() {
+        const converter = new showdown.Converter();
 	const message = userInput.value.trim();
 
 	// Don't send empty messages
